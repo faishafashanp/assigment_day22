@@ -73,5 +73,3 @@ Implemented using @RestControllerAdvice to handle:
 
 400 Bad Request
 500 Internal Server Error
-
-This layer ensures that error responses are structured and meaningful.
